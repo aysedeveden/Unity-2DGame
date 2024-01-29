@@ -12,9 +12,8 @@ Bu oyun ileri geri tuşlarıyla hareket etmemizi sağlar. Yukarı ok tuşuyla z�
 Bu oyun klavyenin ileri geri tuşlarıyla playerı hareket ettirir.Oyun alanına düşmanlar kurulmuştur.Bu düşmanları öldürmek için mouse sol tuşuyla playerından ninja bıçakları atılır.Öldürülen düşman ve atılan ninja bıçak sayısı menüde kaydedilir.
 # 
 # Project View
-| ---------------------------- |
 ![image](https://github.com/aysedeveden/Unity-2DGame/assets/116079495/68f2d224-cec6-42e9-a26e-d43c15d3ec6d)
-
+#
 Oyunun durdurma tuşuyla ekstra bir ekran gelir ve burda oyunu yeniden başlatmak isterseniz yeniden başat tuşuna basmanız yeterlidir.Onun dışında home ve devam etmek için tuşları da barındırı.
 ![image](https://github.com/aysedeveden/Unity-2DGame/assets/116079495/edf1769b-3a51-42d3-a10a-39bb917b6a2d)
 
