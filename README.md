@@ -12,6 +12,10 @@ Bu oyun klavyenin ileri geri tuşlarıyla playerı hareket ettirir.Oyun alanına
 Oyunun durdurma tuşuyla ekstra bir ekran gelir ve burda oyunu yeniden başlatmak isterseniz yeniden başat tuşuna basmanız yeterlidir.Onun dışında home ve devam etmek için tuşları da barındırı.
 ![image](https://github.com/aysedeveden/Unity-2DGame/assets/116079495/edf1769b-3a51-42d3-a10a-39bb917b6a2d)
 
+Düşmana atılan ninja bıçakları düşmanın canını azaltır ve öldürür.
+![image](https://github.com/aysedeveden/Unity-2DGame/assets/116079495/fc29d53d-4975-490f-8334-87bef2504ecf)
+
+
 
 
 
