@@ -6,10 +6,13 @@ Bu repo Oyun Geliştirme dersi için açılmıştır.
  - Dilara KARATAŞ - 02200201044
 
 ## Proje Özeti
-Bu oyun ileri geri tuslarıyla hareket etmemizi sağlar. Yukarı ok tuşuyla zıplama komutu veirir ve sol mouse tıklanamsı ile ateş etme komutu verir. İlerleme kaydederek en yüksek puanı Hight score olarak ekler.
+Bu oyun ileri geri tuşlarıyla hareket etmemizi sağlar. Yukarı ok tuşuyla zıplama komutu verir ve sol mouse tıklanamsı ile ateş etme komutu verir. İlerleme kaydederek en yüksek puanı Hight score olarak ekler.
 
 ## Oyun İçeriği
 Bu oyun klavyenin ileri geri tuşlarıyla playerı hareket ettirir.Oyun alanına düşmanlar kurulmuştur.Bu düşmanları öldürmek için mouse sol tuşuyla playerından ninja bıçakları atılır.Öldürülen düşman ve atılan ninja bıçak sayısı menüde kaydedilir.
+# 
+# Project View
+| ---------------------------- |
 ![image](https://github.com/aysedeveden/Unity-2DGame/assets/116079495/68f2d224-cec6-42e9-a26e-d43c15d3ec6d)
 
 Oyunun durdurma tuşuyla ekstra bir ekran gelir ve burda oyunu yeniden başlatmak isterseniz yeniden başat tuşuna basmanız yeterlidir.Onun dışında home ve devam etmek için tuşları da barındırı.
