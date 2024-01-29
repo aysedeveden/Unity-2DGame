@@ -6,7 +6,7 @@ Bu repo Oyun Geliştirme dersi için açılmıştır.
  - Dilara KARATAŞ - 02200201044
 
 ## Proje Özeti
-Bu oyun ileri geri tuslarıyla hareket etmemizi sağlar. Space tusu ile zıplama komutu veirir ve sol mouse tıklanamsı ile ateş etme komutu verir. İlerleme kaydederek en yüksek puanı Hight score olarak ekler.
+Bu oyun ileri geri tuslarıyla hareket etmemizi sağlar. Yukarı ok tuşuyla zıplama komutu veirir ve sol mouse tıklanamsı ile ateş etme komutu verir. İlerleme kaydederek en yüksek puanı Hight score olarak ekler.
 
 ## Oyun İçeriği
 Bu oyun klavyenin ileri geri tuşlarıyla playerı hareket ettirir.Oyun alanına düşmanlar kurulmuştur.Bu düşmanları öldürmek için mouse sol tuşuyla playerından ninja bıçakları atılır.Öldürülen düşman ve atılan ninja bıçak sayısı menüde kaydedilir.
